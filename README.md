@@ -1,7 +1,23 @@
-### Hi there 👋
+# Phạm Quý Hải - @phamquyhai
+
+Hi, I'm Hải a Expert programmer working on [Sun Asterisk](https://sun-asterisk.com) (old Framgia)
+At the moment I build systems with Serverless stack and Graphql Stack 
+
+## My favorite skills
+
+- Kubernetes
+- Knative 
+- Kong 
+- Android
+- React Native
+- ReactJS
+- Expo 
+- CI/CD
+- NodeJS
+- Cloud Functions
+- ... 
 
 <!--
-**phamquyhai/phamquyhai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
