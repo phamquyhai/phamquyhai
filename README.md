@@ -6,6 +6,8 @@ At the moment I build systems with Serverless stack and Graphql Stack
 
 ## My favorite skills
 
+- Serverless
+- Graphql
 - Kubernetes
 - Knative 
 - Kong 
