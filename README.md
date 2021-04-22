@@ -1,6 +1,6 @@
 # Phạm Quý Hải - @phamquyhai
 
-Hi, I'm Hải a Expert programmer working on [Sun Asterisk](https://sun-asterisk.com) (old Framgia)
+Hi, I'm Hải a Expert programmer working on [Sun Asterisk](https://sun-asterisk.com)
 
 At the moment I build systems with Serverless stack and Graphql Stack 
 
