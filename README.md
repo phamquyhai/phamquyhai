@@ -9,8 +9,7 @@ At the moment I build systems with Serverless stack and Graphql Stack
 - Serverless
 - Graphql
 - Kubernetes
-- Knative 
-- Kong 
+- Blockchain: etherjs, solidity
 - Android
 - React Native
 - ReactJS
